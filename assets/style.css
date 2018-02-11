@@ -1,0 +1,50 @@
+.img{
+    width: 301px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 20px;
+   
+    
+}
+
+.text{
+    color: rgb(173, 151, 79);
+}
+
+#log{
+    height: 216px;
+    width: 240px;
+    overflow: hidden;
+    
+}
+
+textarea{
+    width: 600px;
+    height: 200px;
+}
+
+input{
+    width: 600px;
+}
+
+#h1{
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(173, 151, 79);
+}
+
+
+.color{
+    background-color: rgb(35, 31, 32);
+}
+
+.color2{
+    background-color: rgb(234, 234, 234);
+}
+
+p{
+    color: rgb(173, 151, 79);
+}
+
+.center{
+    text-align: center;
+}
